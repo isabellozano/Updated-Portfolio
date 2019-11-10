@@ -6,4 +6,6 @@ So as far as installation goes, you need first and foremost Github; you need to 
 
 I would like to give all the credit to first and foremost, StartBootstrap.com, and Google. I had to test out a lot on google using the free tools (inspect) they provide, in order to modify my code.
 
-I could not get my img to round out, couldn't figure out why by the end of it all so yeah, I'm going to need to work on that still!
+I could not get my img to round out, couldn't figure out why by the end of it all so I'm going to need to work on that still!
+
+Other than that, everything works and I hope you enjoy!
